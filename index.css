@@ -1,0 +1,40 @@
+.card-title{
+    margin-top: 20px;
+}
+#stdtime{
+    margin-bottom: 30px;
+}
+#clockContainer{
+    margin: auto;
+    height: 400px;
+    width: 400px;
+    background: url(https://lh3.googleusercontent.com/proxy/Q5rj8zI5gq-FWyr11j2_3vwf7_r_2MoRqUG_7TWN-XJDB5YsXdcEGn6mLtoBisXTPKyGiHnJJHHWQ-VOyrNxpvcifJdv7SI) no-repeat;
+    background-size: 100%;
+}
+#hour, #minute, #second{
+    position: absolute;
+    background: black;
+    border-radius: 10px;
+    transform-origin: bottom;
+}
+#hour{
+    width: 0.8%;
+    height: 15%;
+    top: 49%;
+    left: 49.61%;
+    opacity: 0.8;
+}
+#minute{
+    width: 0.8%;
+    height: 22%;
+    top: 41.8%;
+    left: 49.58%;
+    opacity: 0.8;
+}
+#second{
+    width: 0.2%;
+    height: 25%;
+    top: 38.8%;
+    left: 49.9%;
+    opacity: 0.8;
+}
