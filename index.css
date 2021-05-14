@@ -8,7 +8,7 @@
     margin: auto;
     height: 400px;
     width: 400px;
-    background: url(https://lh3.googleusercontent.com/proxy/Q5rj8zI5gq-FWyr11j2_3vwf7_r_2MoRqUG_7TWN-XJDB5YsXdcEGn6mLtoBisXTPKyGiHnJJHHWQ-VOyrNxpvcifJdv7SI) no-repeat;
+    background: url("clock.png") no-repeat;
     background-size: 100%;
 }
 #hour, #minute, #second{
